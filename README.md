@@ -41,7 +41,7 @@
 
 ## Download
 
-Grab the latest ISO from the **[Releases page](https://github.com/<LucidPolaris>/garyu-os/releases)**.
+Grab the latest ISO from the **[Releases page](https://github.com/LucidPolaris/Garyu-OS/releases)**.
 
 Each release includes a `SHA512SUMS` file. Verify your download before use:
 
